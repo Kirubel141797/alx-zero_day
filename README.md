@@ -1,1 +1,1 @@
-my name is kirubel teshome
+My first readme updated copy
